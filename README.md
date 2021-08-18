@@ -1,7 +1,17 @@
-### Hi there 👋
+<h1 align="center"> Hi there 👋 </h1>
+My name is Oussama....mini-bio
+
+### <u>💻Software and languages:</u>
+<img src="https://img.icons8.com/fluency/35/000000/visual-studio-code-2019.png"/> <img src="https://img.icons8.com/color/35/000000/amazon-web-services.png"/> <img src="https://img.icons8.com/color/35/000000/python--v1.png"/> <img src="https://img.icons8.com/color/35/000000/docker.png"/> <img src="https://img.icons8.com/material-outlined/35/000000/github.png"/> <img src="https://img.icons8.com/color/35/000000/git.png"/> <img src="https://img.icons8.com/color/35/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/35/000000/postgreesql.png"/>
+
+<br />
+<img src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" align="right" width="400" height="300" style="max-width:100%;">
+
 
 <!--
 **TheRoyalMoroccan/TheRoyalMoroccan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
