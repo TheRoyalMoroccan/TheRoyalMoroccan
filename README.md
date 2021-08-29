@@ -1,5 +1,6 @@
 <h1 align="center"> Hi there 👋 </h1>
-My name is Oussama....mini-bio
+My name is Oussama, I am an eager and determined aspiring data engineer with a solid grasp on database fundamentals along with strong analytical aptitudes. An individual who thrives off learning new things and solving complex and thought-provoking problems in ways that have impact and deliver meaningful value and results
+
 
 ### <u>💻Software and languages:</u>
 <img src="https://img.icons8.com/fluency/35/000000/visual-studio-code-2019.png"/> <img src="https://img.icons8.com/color/35/000000/amazon-web-services.png"/> <img src="https://img.icons8.com/color/35/000000/python--v1.png"/> <img src="https://img.icons8.com/color/35/000000/docker.png"/> <img src="https://img.icons8.com/material-outlined/35/000000/github.png"/> <img src="https://img.icons8.com/color/35/000000/git.png"/> <img src="https://img.icons8.com/color/35/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/35/000000/postgreesql.png"/>
