@@ -1,5 +1,5 @@
 <h1 align="center"> Hi there 👋 </h1>
-My name is Oussama, I am an eager and determined aspiring data engineer with a solid grasp on database fundamentals along with strong analytical aptitudes. An individual who thrives off learning new things and solving complex and thought-provoking problems in ways that have impact and deliver meaningful value and results
+My name is Oussama, I am an eager and determined aspiring data engineer with a solid grasp on database fundamentals along with strong analytical aptitudes. An individual who thrives off learning new things and solving complex and thought-provoking problems in ways that have impact and deliver meaningful value and results.
 
 
 ### <u>💻Software and languages:</u>
@@ -8,7 +8,7 @@ My name is Oussama, I am an eager and determined aspiring data engineer with a s
 <br />
 <img src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" align="right" width="400" height="300" style="max-width:100%;">
 
-
+<img src="https://github-readme-stats.vercel.app/api?username=TheRoyalMoroccan&theme=&show_icons=true">
 <!--
 **TheRoyalMoroccan/TheRoyalMoroccan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
